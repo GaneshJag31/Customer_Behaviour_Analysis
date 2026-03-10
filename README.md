@@ -255,4 +255,4 @@ GitHub: [@GaneshJag31](https://github.com/GaneshJag31)
 
 ---
 
-*End-to-end Data Analytics portfolio project — Python · SQL · Power BI*
+*End-to-end Data Analytics project — Python · SQL · Power BI*
