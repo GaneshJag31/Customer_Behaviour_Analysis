@@ -202,7 +202,12 @@ ORDER BY c.purchase_amount DESC;
 
 ## 📊 Power BI Dashboard
 
+
+<img width="1239" height="736" alt="Dashboard_Screenshot_Final" src="https://github.com/user-attachments/assets/3b685900-8b44-41e5-9acd-796685595169" />
+
+
 Interactive dark-themed dashboard with a custom JSON theme, 4 KPI cards, 5 visuals, and 5 slicers.
+
 
 | Visual | What It Shows |
 |--------|---------------|
